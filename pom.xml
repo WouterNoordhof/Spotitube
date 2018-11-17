@@ -58,6 +58,9 @@
                 <groupId>org.eluder.coveralls</groupId>
                 <artifactId>coveralls-maven-plugin</artifactId>
                 <version>4.3.0</version>
+                <configuration>
+                    <repoToken>zooPudT9gn4swgkMfMyyWvCd4Kwcx3nA2</repoToken>
+                </configuration>
             </plugin>
             <plugin>
                 <groupId>org.apache.openejb.maven</groupId>
