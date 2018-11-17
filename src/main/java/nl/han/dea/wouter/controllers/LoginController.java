@@ -13,7 +13,7 @@ import java.sql.SQLException;
 @Path("/login")
 public class LoginController {
     private UserService userService;
-// Test to see if Git works Properly
+
     @POST
     @Produces(MediaType.APPLICATION_JSON)
     @Consumes(MediaType.APPLICATION_JSON)
