@@ -1,0 +1,13 @@
+nl\han\dea\wouter\dto\playlists\PlaylistsResponseDTO.class
+nl\han\dea\wouter\dto\tracks\TracksDTO.class
+nl\han\dea\wouter\controllers\PlaylistsController.class
+nl\han\dea\wouter\dto\tracks\TrackDTO.class
+nl\han\dea\wouter\services\UserService.class
+nl\han\dea\wouter\dao\TrackDAO.class
+nl\han\dea\wouter\controllers\LoginController.class
+nl\han\dea\wouter\controllers\TrackController.class
+nl\han\dea\wouter\dto\login\LoginResponseDTO.class
+nl\han\dea\wouter\dto\login\LoginRequestDTO.class
+nl\han\dea\wouter\dao\UserDAO.class
+nl\han\dea\wouter\dto\playlists\PlaylistResponseDTO.class
+nl\han\dea\wouter\dao\PlaylistDAO.class
