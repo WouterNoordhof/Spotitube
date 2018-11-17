@@ -1,0 +1,9 @@
+language: java
+
+addons:
+  sonarcloud:
+    organization: "WouterNoordhof-github"
+
+after_success:
+- mvn org.jacoco:jacoco-maven-plugin:prepare-agent install sonar:sonar
+- mvn jacoco:report coveralls:report
