@@ -1,0 +1,1277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="JEE:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="87871577-7f2b-4411-b8da-a2fbcb64e92a" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/JEE$LoginControllerTest_testIfUserserviceDoesNotAgreeReturnsNotOk.ic" NAME="LoginControllerTest.testIfUserserviceDoesNotAgreeReturnsNotOk Coverage Results" MODIFIED="1540800950502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>nl.han.dea.wouter.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/JEE$LoginControllerTest.ic" NAME="LoginControllerTest Coverage Results" MODIFIED="1541157228215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>nl.han.dea.wouter.controllertest.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myFlattenPackages" value="true" />
+    <option name="myAutoScrollToSource" value="true" />
+    <option name="myElementSize" value="233" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1775856588">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="22" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.15" value="4" />
+          <entry key="project.open.time.16" value="2" />
+          <entry key="project.open.time.17" value="4" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.20" value="2" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.32" value="1" />
+          <entry key="project.open.time.42" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="26" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="JavaScript-modules-diagram/C:/Users/woute/Documents/HBO-ICT Jaar 2/OOSE - DEA/JEE/JEE/src/main/java/nl/han/dea/wouter;C:/Users/woute/Documents/HBO-ICT Jaar 2/OOSE - DEA/JEE/JEE/src/Test/java/nl/han/dea/wouter;" value="1" />
+          <entry key="class" value="7" />
+          <entry key="java" value="121" />
+          <entry key="wouter" value="1" />
+          <entry key="xml" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="7" />
+          <entry key="JAVA" value="121" />
+          <entry key="UML" value="2" />
+          <entry key="XML" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="2" />
+          <entry key="java" value="16577" />
+          <entry key="xml" value="94" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="16576" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="SQL" value="1" />
+          <entry key="XML" value="94" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/nl/han/dea/wouter/services/UserService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/nl/han/dea/wouter/controllers/PlaylistsController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1210">
+              <caret line="69" column="6" selection-start-line="69" selection-start-column="6" selection-end-line="69" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Test/java/nl/han/dea/wouter/controllertest/LoginControllerTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="129">
+              <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/nl/han/dea/wouter/controllers/LoginController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="22" column="44" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>trackDTO</find>
+      <find>{id}/tracls</find>
+      <find>{id}/tracks</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/nl/han/dea/wouter/main/DTO/LoginRequestDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nl/han/dea/wouter/main/LoginController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nl/han/dea/wouter/main/login/LoginController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nl/han/dea/wouter/primes/PrimeTester.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nl/han/dea/wouter/primes/delegates/PrimeTester.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nl/han/dea/wouter/primes/delegates/PrimeTesterInterface.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nl/han/dea/wouter/primes/delegates/SimplePrimeTester.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nl/han/dea/wouter/primes/factory/AdvancedPrimeTester.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nl/han/dea/wouter/primes/factory/PrimeTesterFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nl/han/dea/wouter/primes/delegates/LittleBrotherPrimeTester.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nl/han/dea/wouter/primes/delegates/LittleBrotherPrimeTesterAdapter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nl/han/dea/wouter/primes/PrimeTesterType.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nl/han/dea/wouter/primes/PrimeController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nl/han/dea/wouter/controllers/login/DTO/PlaylistResponseDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nl/han/dea/wouter/controllers/login/DTO/PlaylistRequestDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nl/han/dea/wouter/controllers/login/DTO/PlaylistsResponseDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nl/han/dea/wouter/controllers/login/PlaylistsController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nl/han/dea/wouter/controllers/login/LoginController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nl/han/dea/wouter/controllers/DTO/TracksInPlaylistsResponseDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nl/han/dea/wouter/controllers/DTO/TrackResponseDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nl/han/dea/wouter/controllers/DTO/PlaylistResponseDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nl/han/dea/wouter/controllers/TracksInPlaylistController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nl/han/dea/wouter/controllers/TracksInPlaylistResponseDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nl/han/dea/wouter/DTO/TracksInPlaylistResponseDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nl/han/dea/wouter/DTO/PlaylistResponseDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nl/han/dea/wouter/DTO/TrackResponseDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nl/han/dea/wouter/DTO/TrackDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nl/han/dea/wouter/dto/TrackDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nl/han/dea/wouter/controllers/PlayListController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nl/han/dea/wouter/services/PlaylistService.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/nl/han/dea/wouter/dao/UseDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nl/han/dea/wouter/dao/trackDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/beans.xml" />
+        <option value="$PROJECT_DIR$/src/Test/java/nl/han/dea/wouter/PlaylistsControllerTest.java" />
+        <option value="$PROJECT_DIR$/src/Test/java/nl/han/dea/wouter/LoginControllerTest.java" />
+        <option value="$PROJECT_DIR$/src/Test/java/nl/han/dea/wouter/ControllerTest/LoginControllerTest.java" />
+        <option value="$PROJECT_DIR$/src/Test/java/nl/han/dea/wouter/ControllerTest/PlaylistsControllerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nl/han/dea/wouter/dao/ConnectorDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nl/han/dea/wouter/controllers/TrackController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nl/han/dea/wouter/services/UserService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nl/han/dea/wouter/controllers/LoginController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nl/han/dea/wouter/dao/TrackDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nl/han/dea/wouter/dao/UserDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nl/han/dea/wouter/dto/login/LoginResponseDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nl/han/dea/wouter/dto/playlists/PlaylistRequestDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nl/han/dea/wouter/dto/playlists/PlaylistResponseDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nl/han/dea/wouter/dto/tracks/TrackDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nl/han/dea/wouter/dto/tracks/TracksDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nl/han/dea/wouter/controllers/PlaylistsController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nl/han/dea/wouter/dao/PlaylistDAO.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="921" />
+    <option name="width" value="943" />
+    <option name="height" value="1087" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JEE" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Spotitube" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="JEE" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Spotitube" type="616d4139:PackageViewModuleNode" />
+              <item name="nl.han.dea.wouter" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JEE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JEE" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JEE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JEE" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JEE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JEE" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JEE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JEE" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JEE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JEE" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="wouter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JEE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JEE" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="wouter" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JEE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JEE" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="wouter" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JEE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JEE" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="wouter" type="462c0819:PsiDirectoryNode" />
+              <item name="dto" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JEE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JEE" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="wouter" type="462c0819:PsiDirectoryNode" />
+              <item name="dto" type="462c0819:PsiDirectoryNode" />
+              <item name="login" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JEE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JEE" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="wouter" type="462c0819:PsiDirectoryNode" />
+              <item name="dto" type="462c0819:PsiDirectoryNode" />
+              <item name="playlists" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JEE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JEE" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="wouter" type="462c0819:PsiDirectoryNode" />
+              <item name="dto" type="462c0819:PsiDirectoryNode" />
+              <item name="tracks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JEE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JEE" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="wouter" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JEE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JEE" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JEE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JEE" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JEE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JEE" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JEE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JEE" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JEE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JEE" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="controllertest" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541157241192" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="nl.han.dea.wouter.primes.delegates" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="nl.han.dea.wouter.dto.playlists" />
+      <recent name="nl.han.dea.wouter.dto.login" />
+      <recent name="nl.han.dea.wouter.dto.tracks" />
+      <recent name="nl.han.dea.wouter.DTO" />
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="nl.han.dea.wouter.primes.delegates" />
+      <recent name="nl.han.dea.wouter.primes.factory" />
+      <recent name="nl.han.dea.wouter.primes" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.LoginControllerTest">
+    <configuration name="LoginControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Spotitube" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nl.han.dea.wouter.controllertest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="nl.han.dea.wouter.controllertest" />
+      <option name="MAIN_CLASS_NAME" value="nl.han.dea.wouter.controllertest.LoginControllerTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginControllerTest.testIfUserserviceAgreesReturnsOk" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Spotitube" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nl.han.dea.wouter.controllertest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="nl.han.dea.wouter.controllertest" />
+      <option name="MAIN_CLASS_NAME" value="nl.han.dea.wouter.controllertest.LoginControllerTest" />
+      <option name="METHOD_NAME" value="testIfUserserviceAgreesReturnsOk" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginControllerTest.testIfUserserviceDoesNotAgreeReturnsNotOk" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Spotitube" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nl.han.dea.wouter.controllertest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="nl.han.dea.wouter.controllertest" />
+      <option name="MAIN_CLASS_NAME" value="nl.han.dea.wouter.controllertest.LoginControllerTest" />
+      <option name="METHOD_NAME" value="testIfUserserviceDoesNotAgreeReturnsNotOk" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlaylistsControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Spotitube" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nl.han.dea.wouter.controllertest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="nl.han.dea.wouter.ControllerTest" />
+      <option name="MAIN_CLASS_NAME" value="nl.han.dea.wouter.ControllerTest.PlaylistsControllerTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlaylistsControllerTest.testIfPlaylistRequestReturnsOK" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Spotitube" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nl.han.dea.wouter.controllertest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="nl.han.dea.wouter.ControllerTest" />
+      <option name="MAIN_CLASS_NAME" value="nl.han.dea.wouter.ControllerTest.PlaylistsControllerTest" />
+      <option name="METHOD_NAME" value="testIfPlaylistRequestReturnsOK" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Spotitube" type="TomeeConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="TomEE 8.5.32" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER" value="false" />
+      <option name="BROWSER_ID" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="JEE:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_JEE_2" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="58721" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="JEE:war" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.32" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="BROWSER_ID" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="JEE:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_JEE" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="56955" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="JEE:war" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Tomcat Server.Unnamed" />
+      <item itemvalue="TomEE Server.Spotitube" />
+      <item itemvalue="JUnit.LoginControllerTest.testIfUserserviceAgreesReturnsOk" />
+      <item itemvalue="JUnit.LoginControllerTest" />
+      <item itemvalue="JUnit.LoginControllerTest.testIfUserserviceDoesNotAgreeReturnsNotOk" />
+      <item itemvalue="JUnit.PlaylistsControllerTest.testIfPlaylistRequestReturnsOK" />
+      <item itemvalue="JUnit.PlaylistsControllerTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LoginControllerTest" />
+        <item itemvalue="JUnit.PlaylistsControllerTest.testIfPlaylistRequestReturnsOK" />
+        <item itemvalue="JUnit.PlaylistsControllerTest" />
+        <item itemvalue="JUnit.LoginControllerTest.testIfUserserviceDoesNotAgreeReturnsNotOk" />
+        <item itemvalue="JUnit.LoginControllerTest.testIfUserserviceAgreesReturnsOk" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87871577-7f2b-4411-b8da-a2fbcb64e92a" name="Default Changelist" comment="" />
+      <created>1537792620684</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537792620684</updated>
+      <workItem from="1537792622152" duration="3347000" />
+      <workItem from="1538033419867" duration="7964000" />
+      <workItem from="1538220454303" duration="9000" />
+      <workItem from="1538392579020" duration="8772000" />
+      <workItem from="1538473165949" duration="169000" />
+      <workItem from="1538478548423" duration="1632000" />
+      <workItem from="1538637725565" duration="15693000" />
+      <workItem from="1538732342690" duration="908000" />
+      <workItem from="1538999966557" duration="6372000" />
+      <workItem from="1539242526860" duration="7966000" />
+      <workItem from="1539288963460" duration="6327000" />
+      <workItem from="1539781928182" duration="7416000" />
+      <workItem from="1540205614536" duration="4834000" />
+      <workItem from="1540451969110" duration="6471000" />
+      <workItem from="1540458647563" duration="2069000" />
+      <workItem from="1540462145105" duration="178000" />
+      <workItem from="1540492331324" duration="25212000" />
+      <workItem from="1540650524059" duration="21744000" />
+      <workItem from="1540823618095" duration="1146000" />
+      <workItem from="1540990108824" duration="15000" />
+      <workItem from="1541145110987" duration="2494000" />
+      <workItem from="1541157128992" duration="707000" />
+      <workItem from="1541427835093" duration="596000" />
+      <workItem from="1541762613248" duration="627000" />
+      <workItem from="1542273804357" duration="8000" />
+      <workItem from="1542284195322" duration="11000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="PlaylistsControllerTest - 2018.10.29 at 10h 36m 40s.xml">
+      <configuration name="PlaylistsControllerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PlaylistsControllerTest - 2018.10.29 at 10h 37m 28s.xml">
+      <configuration name="PlaylistsControllerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PlaylistsControllerTest_testIfPlaylistRequestReturnsOK - 2018.10.29 at 10h 38m 32s.xml">
+      <configuration name="PlaylistsControllerTest.testIfPlaylistRequestReturnsOK" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PlaylistsControllerTest_testIfPlaylistRequestReturnsOK - 2018.10.29 at 10h 38m 42s.xml">
+      <configuration name="PlaylistsControllerTest.testIfPlaylistRequestReturnsOK" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PlaylistsControllerTest_testIfPlaylistRequestReturnsOK - 2018.10.29 at 12h 39m 02s.xml">
+      <configuration name="PlaylistsControllerTest.testIfPlaylistRequestReturnsOK" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PlaylistsControllerTest - 2018.10.29 at 12h 40m 41s.xml">
+      <configuration name="PlaylistsControllerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LoginControllerTest - 2018.10.29 at 14h 29m 36s.xml">
+      <configuration name="LoginControllerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LoginControllerTest - 2018.11.02 at 12h 12m 43s.xml">
+      <configuration name="LoginControllerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LoginControllerTest - 2018.11.02 at 12h 12m 48s.xml">
+      <configuration name="LoginControllerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LoginControllerTest - 2018.11.02 at 12h 13m 50s.xml">
+      <configuration name="LoginControllerTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="132687000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1873" height="1096" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15940431" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32952183" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31392932" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.47505197" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32952183" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32952183" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32952183" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.2498621" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="JSF" order="5" weight="0.32984003" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="CDI" order="10" />
+      <window_info anchor="right" id="Bean Validation" order="11" weight="0.32984003" />
+      <window_info active="true" anchor="right" id="Coverage" order="12" side_tool="true" visible="true" weight="0.36458907" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14837286" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32952183" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.37006238" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.47505197" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32952183" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32952183" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32952183" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.2498621" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="JSF" order="5" weight="0.32984003" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="CDI" order="10" />
+      <window_info anchor="right" id="Bean Validation" order="11" weight="0.32984003" />
+      <window_info anchor="right" id="Coverage" order="12" side_tool="true" visible="true" weight="0.18367347" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/javaee-api/7.0/javaee-api-7.0.jar!/javax/ws/rs/GET.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/primes/delegates/LittleBrotherPrimeTesterAdapter.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/primes/delegates/LittleBrotherPrimeTester.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/primes/factory/AdvancedPrimeTester.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/primes/delegates/PrimeTester.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/primes/PrimeTesterType.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/primes/delegates/SimplePrimeTester.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/primes/factory/PrimeTesterFactory.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/primes/PrimeController.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/nl/han/dea/wouter/controllers/DTO/TracksInPlaylistsResponseDTO.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/nl/han/dea/wouter/DTO/TracksInPlaylistResponseDTO.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/nl/han/dea/wouter/DTO/TrackRequestDTO.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/reflect/Method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="254" selection-start-line="254" selection-end-line="254" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="347" selection-start-line="347" selection-end-line="347" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nl/han/dea/wouter/controllers/PlayListController.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/net/DualStackPlainSocketImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="282" column="22" selection-start-line="282" selection-start-column="22" selection-end-line="282" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-line="35" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/beans.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="34" lean-forward="true" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nl/han/dea/wouter/services/PlaylistService.java" />
+    <entry file="uml://JavaScript-modules-diagram/C:/Users/woute/Documents/HBO-ICT Jaar 2/OOSE - DEA/JEE/JEE/src/main/java/nl/han/dea/wouter;C:/Users/woute/Documents/HBO-ICT Jaar 2/OOSE - DEA/JEE/JEE/src/Test/java/nl/han/dea/wouter;">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/src/main/java/nl/han/dea/wouter;C:/Users/woute/Documents/HBO-ICT Jaar 2/OOSE - DEA/JEE/JEE/src/Test/java/nl/han/dea/wouter;</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="568.0" y="299.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Overview</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/nl.han.dea.wouter">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>nl.han.dea.wouter</OriginalElement>
+          <nodes>
+            <node x="189.85208333333333" y="330.451171875">nl.han.dea.wouter.controllers</node>
+            <node x="334.75" y="231.451171875">nl.han.dea.wouter.services</node>
+            <node x="310.0" y="132.451171875">nl.han.dea.wouter.dao</node>
+            <node x="180.35208333333335" y="419.451171875">nl.han.dea.wouter.ControllerTest</node>
+            <node x="168.0" y="132.451171875">nl.han.dea.wouter.dto.playlists</node>
+            <node x="194.02986111111113" y="13.451171875">nl.han.dea.wouter.dto.tracks</node>
+            <node x="0.0" y="231.451171875">nl.han.dea.wouter.dto.login</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="nl.han.dea.wouter.dao" target="nl.han.dea.wouter.dto.tracks">
+              <point x="-24.75" y="-14.5" />
+              <point x="334.75" y="102.451171875" />
+              <point x="285.6965277777778" y="102.451171875" />
+              <point x="36.66666666666666" y="14.5" />
+            </edge>
+            <edge source="nl.han.dea.wouter.controllers" target="nl.han.dea.wouter.dto.tracks">
+              <point x="-33.75" y="-14.5" />
+              <point x="223.60208333333333" y="290.451171875" />
+              <point x="116.5" y="290.451171875" />
+              <point x="116.5" y="92.451171875" />
+              <point x="224.5854166666667" y="92.451171875" />
+              <point x="-24.44444444444443" y="14.5" />
+            </edge>
+            <edge source="nl.han.dea.wouter.controllers" target="nl.han.dea.wouter.services">
+              <point x="47.25" y="-14.5" />
+              <point x="304.6020833333333" y="300.451171875" />
+              <point x="349.75" y="300.451171875" />
+              <point x="-45.0" y="14.5" />
+            </edge>
+            <edge source="nl.han.dea.wouter.ControllerTest" target="nl.han.dea.wouter.dto.login">
+              <point x="-64.16666666666669" y="-14.5" />
+              <point x="193.18541666666667" y="399.451171875" />
+              <point x="21.41874999999999" y="399.451171875" />
+              <point x="21.41874999999999" y="310.451171875" />
+              <point x="13.25" y="310.451171875" />
+              <point x="-39.75" y="14.5" />
+            </edge>
+            <edge source="nl.han.dea.wouter.services" target="nl.han.dea.wouter.dao">
+              <point x="0.0" y="-14.5" />
+              <point x="394.75" y="211.451171875" />
+              <point x="384.25" y="211.451171875" />
+              <point x="24.75" y="14.5" />
+            </edge>
+            <edge source="nl.han.dea.wouter.controllers" target="nl.han.dea.wouter.dto.login">
+              <point x="-47.25" y="-14.5" />
+              <point x="210.10208333333333" y="300.451171875" />
+              <point x="92.75" y="300.451171875" />
+              <point x="39.75" y="14.5" />
+            </edge>
+            <edge source="nl.han.dea.wouter.dto.tracks" target="nl.han.dea.wouter.dto.tracks">
+              <point x="-36.666666666666664" y="14.5" />
+              <point x="212.36319444444447" y="72.451171875" />
+              <point x="164.02986111111113" y="72.451171875" />
+              <point x="164.02986111111113" y="20.701171875" />
+              <point x="-55.0" y="-7.25" />
+            </edge>
+            <edge source="nl.han.dea.wouter.dto.playlists" target="nl.han.dea.wouter.dto.playlists">
+              <point x="-45.375" y="14.5" />
+              <point x="183.125" y="181.451171875" />
+              <point x="148.0" y="181.451171875" />
+              <point x="148.0" y="154.201171875" />
+              <point x="-60.5" y="7.25" />
+            </edge>
+            <edge source="nl.han.dea.wouter.ControllerTest" target="nl.han.dea.wouter.services">
+              <point x="64.16666666666669" y="-14.5" />
+              <point x="321.51875000000007" y="399.451171875" />
+              <point x="428.8520833333333" y="399.451171875" />
+              <point x="428.8520833333333" y="310.451171875" />
+              <point x="439.75" y="310.451171875" />
+              <point x="45.0" y="14.5" />
+            </edge>
+            <edge source="nl.han.dea.wouter.ControllerTest" target="nl.han.dea.wouter.controllers">
+              <point x="-12.833333333333343" y="-14.5" />
+              <point x="244.51875" y="379.451171875" />
+              <point x="223.60208333333333" y="379.451171875" />
+              <point x="-33.75" y="14.5" />
+            </edge>
+            <edge source="nl.han.dea.wouter.dto.playlists" target="nl.han.dea.wouter.dto.tracks">
+              <point x="30.25" y="-14.5" />
+              <point x="258.75" y="112.451171875" />
+              <point x="261.25208333333336" y="112.451171875" />
+              <point x="12.2222222222222" y="14.5" />
+            </edge>
+            <edge source="nl.han.dea.wouter.controllers" target="nl.han.dea.wouter.dao">
+              <point x="33.75" y="-14.5" />
+              <point x="291.1020833333333" y="290.451171875" />
+              <point x="324.25" y="290.451171875" />
+              <point x="324.25" y="211.451171875" />
+              <point x="334.75" y="211.451171875" />
+              <point x="-24.75" y="14.5" />
+            </edge>
+            <edge source="nl.han.dea.wouter.controllers" target="nl.han.dea.wouter.dto.playlists">
+              <point x="6.75" y="-14.5" />
+              <point x="264.1020833333333" y="310.451171875" />
+              <point x="265.3541666666667" y="310.451171875" />
+              <point x="265.3541666666667" y="211.451171875" />
+              <point x="273.875" y="211.451171875" />
+              <point x="45.375" y="14.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-177.0" y="220.0" />
+          <SelectedNodes>
+            <node>nl.han.dea.wouter.dto.login</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/BlockJUnit4ClassRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runner/JUnitCore.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="76" selection-start-line="76" selection-end-line="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/ParentRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="240" selection-start-line="240" selection-end-line="240" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nl/han/dea/wouter/dao/ConnectorDAO.java" />
+    <entry file="file://$PROJECT_DIR$/src/Test/java/nl/han/dea/wouter/ControllerTest/PlaylistsControllerTest.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.34/mysql-connector-java-5.1.34.jar!/com/mysql/jdbc/ResultSetImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="1039" selection-start-line="1039" selection-end-line="1039" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nl/han/dea/wouter/controllers/TrackController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="52" selection-start-line="20" selection-start-column="52" selection-end-line="20" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nl/han/dea/wouter/dao/TrackDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nl/han/dea/wouter/dao/UserDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="946">
+          <caret line="45" column="9" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nl/han/dea/wouter/dto/login/LoginRequestDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nl/han/dea/wouter/dto/playlists/PlaylistRequestDTO.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/nl/han/dea/wouter/dto/login/LoginResponseDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nl/han/dea/wouter/dto/playlists/PlaylistResponseDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nl/han/dea/wouter/dto/tracks/TrackDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nl/han/dea/wouter/dto/tracks/TracksDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nl/han/dea/wouter/dto/playlists/PlaylistsResponseDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nl/han/dea/wouter/dao/PlaylistDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="65" column="16" selection-start-line="65" selection-start-column="16" selection-end-line="65" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nl/han/dea/wouter/services/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nl/han/dea/wouter/controllers/PlaylistsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1210">
+          <caret line="69" column="6" selection-start-line="69" selection-start-column="6" selection-end-line="69" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nl/han/dea/wouter/controllers/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="22" column="44" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/java/nl/han/dea/wouter/controllertest/LoginControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>JEE:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>JEE</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8 (1)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.airhacks:jaxrs-cors:0.0.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
